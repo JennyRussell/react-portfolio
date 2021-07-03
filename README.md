@@ -1,3 +1,29 @@
+# Professional Portfolio
+
+This is my professional portfolio page
+
+# Work
+
+My portfolio currenly contains several projects:
+
+1. Hangry - an app that helps you discover current open restaurants near you
+2. Weather Dashboard - pull up current weather conditions and 5 day forecast using this app, search by city
+3. Work Day Scheduler - allows you to shcedule your work day and saves data to local storage
+4. Family Project - a fun website that displays cards with effects and contains information on my family
+5. Anime Recommender - an app for anime fans who want more recommendations of anime to watch by various genre
+
+# Contact
+
+The section contains my actual email address, but I will update my phone number with the real one later
+
+# Tools
+
+This web site was built with React and styled using Tailwind.
+
+# URL
+
+https://jennyrussell.github.io/new-portfolio/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
